@@ -1,7 +1,8 @@
-body{background-color:#B0E0E6;} 
+﻿body{background-color:#B0E0E6;}
 
-h1{
-    color:midnightblue;
+
+h1 {
+    color: midnightblue;
     font-size: 30px;
     text-align: center;
 }
@@ -25,7 +26,9 @@ h4{
     text-align: left;
 }
 
-h5{
+h5 {
     color: black;
     font-size: 20px;
     text-align: left;
+    
+    ​
